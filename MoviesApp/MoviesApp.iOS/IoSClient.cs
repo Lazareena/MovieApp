@@ -17,7 +17,7 @@ namespace MoviesApp.iOS
 {
     public class IoSClient : IHttpClient
     { 
-        public IHttpClient GetClient()
+        public HttpClient GetClient()
         {
             HttpClient client = new HttpClient(new NSUrlSessionHandler());
             return client;
