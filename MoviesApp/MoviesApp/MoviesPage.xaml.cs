@@ -1,4 +1,5 @@
-﻿using MoviesApp.Infrastructure;
+﻿using MoviesApp.Data;
+using MoviesApp.Infrastructure;
 using MoviesApp.Interfaces;
 using MoviesApp.Models;
 using Newtonsoft.Json;
@@ -27,8 +28,8 @@ namespace MoviesApp
 
         public static async Task<PageStatus<MoviesPage>> CreatePage()
         {
-            var client = DependencyService.Get<IHttpClient>();
-            var jsonResult = await client.GetAsync(App.UrlMovies);
+            var nativeClient = DependencyService.Get<IHttpClient>();
+            var jsonResult = await new DataLayer(nativeClient.GetClient()).GetAsync(App.UrlMovies);
             if (jsonResult.Succeeded)
             {
                 var movieData = JsonConvert.DeserializeObject<MovieData>(jsonResult.Result);

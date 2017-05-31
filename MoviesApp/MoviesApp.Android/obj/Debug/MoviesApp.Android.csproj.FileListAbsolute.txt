@@ -79,4 +79,49 @@ c:\users\lazar\onedrive\documents\visual studio 2015\Projects\MoviesApp\MoviesAp
 c:\users\lazar\onedrive\documents\visual studio 2015\Projects\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\android\assets\Mono.CSharp.dll.mdb
 c:\users\lazar\onedrive\documents\visual studio 2015\Projects\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
 c:\users\lazar\onedrive\documents\visual studio 2015\Projects\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\MoviesApp.Android.dll.mdb
-c:\users\lazar\onedrive\documents\visual studio 2015\Projects\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\MoviesApp.Android.dll.mdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\MoviesApp.Android.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\MoviesApp.Android.pdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\MoviesApp.Android.apk
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\MoviesApp.Android-Signed.apk
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\MoviesApp.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\MoviesApp.pdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\MoviesApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\MoviesApp.Android.dll
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\MoviesApp.Android.pdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\android\bin\MoviesApp.Android.apk
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\res\drawable\icon.png
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\res\values\styles.xml
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\R.cs.flag
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\uploadflags.txt
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\obj\Debug\MoviesApp.Android.dll.mdb
+C:\Users\lazar\Source\Repos\MoviesApp\MoviesApp\MoviesApp.Android\bin\Debug\MoviesApp.Android.dll.mdb

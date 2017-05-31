@@ -21,35 +21,10 @@ namespace MoviesApp.Droid
 {
     public class AndroidClient : IHttpClient
     {
-        private int _maxRetryIfNetworkTimeout = 3;
-        public async Task<NetworkStatusCode<string>> GetAsync(string url)
+        public HttpClient GetClient()
         {
             HttpClient client = new HttpClient(new Xamarin.Android.Net.AndroidClientHandler());
-            var result = new NetworkStatusCode<string>() { Succeeded = false };
-            bool done = false;
-            int retryCounts = 0;
-            while (!done)
-            {
-                done = true;
-                try
-                {
-                    var response = await client.GetAsync(url).ConfigureAwait(false);
-                    response.EnsureSuccessStatusCode();
-                    result.Succeeded = true;
-                    result.Result = await response.Content.ReadAsStringAsync();
-                }
-                catch (Exception ex)
-                {
-                    result.Ex = ex;
-                    if (ex is System.Net.WebException)
-                    {
-                        retryCounts++;
-                        if (retryCounts < _maxRetryIfNetworkTimeout)
-                            done = false;
-                    }
-                }
-            }
-            return result;
+            return client;
         }
     }
 }
